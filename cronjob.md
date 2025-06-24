@@ -103,5 +103,4 @@ tail -f /var/log/cronjob.log
 
 ```
 
-Let me know if you'd like to tailor this to a **specific script** (e.g., database backup, file cleanup, or log rotation to S3).
-```
+
